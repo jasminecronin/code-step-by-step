@@ -1,0 +1,6 @@
+Point	  y < x	      y == 0	    count > 0
+A	      SOMETIMES	  SOMETIMES	  NEVER
+B	      ALWAYS	    SOMETIMES	  SOMETIMES
+C	      ALWAYS	    ALWAYS	    ALWAYS
+D	      SOMETIMES	  SOMETIMES	  SOMETIMES
+E	      NEVER	      SOMETIMES	  SOMETIMES
