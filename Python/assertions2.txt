@@ -1,0 +1,6 @@
+Point	  y > x	      z < 0	      z > 0
+A	      SOMETIMES	  NEVER	      NEVER
+B	      NEVER	      NEVER	      SOMETIMES
+C	      SOMETIMES	  NEVER	      ALWAYS
+D	      ALWAYS	    NEVER	      SOMETIMES
+E	      ALWAYS	    SOMETIMES	  SOMETIMES
