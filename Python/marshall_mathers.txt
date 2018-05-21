@@ -1,0 +1,8 @@
+10
+25
+2
+-1
+"Dog"
+"hers"
+"Pytho"
+"mathers"
